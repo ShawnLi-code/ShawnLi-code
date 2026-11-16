@@ -44,8 +44,7 @@ LLM & Agent 质控   ::  LLM-as-a-Judge · 双模型交叉评测 · Prompt 幻�
 ### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShawnLi-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shawn's GitHub stats" height="150" />
-  <img src="https://streak-stats.demolab.com?user=ShawnLi-code&theme=tokyonight&hide_border=true" alt="Shawn's Streak" height="150" />
+  <img src="https://streak-stats.demolab.com?user=ShawnLi-code&theme=tokyonight&hide_border=true" alt="Shawn's Streak" height="155" />
 </p>
 
 ---
