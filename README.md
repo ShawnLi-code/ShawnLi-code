@@ -19,8 +19,6 @@
   自主研发的企业级测试质量与接口回归平台，纳管 1,000+ 测试用例；原创解耦 HTTP/业务码/合规拦截三层分离断言引擎并支持失败链路阻断，核心引擎通过 52 项 pytest 单元测试及网关 31 项链式校验。
 - 🌟 **[TestFlow (AI 对话批测与端侧语音调试平台)](https://github.com/ShawnLi-code/testflow)** ｜ [🌐 在线演示](https://testflow.shawnli.xyz/)  
   自主研发客户、客服、抽取与质检四角色自动交互对撞评测引擎，内置 52 类对抗场景并支持 14 款主流模型对比；集成豆包流式 TTS 首包时延观测与 SBC 语音网关 SSH 远程巡检台。
-- 🤖 **[LLM API Tester](https://github.com/ShawnLi-code/llm-api-tester)**  
-  基于大模型的接口契约测试与失败日志根因归因工具，支持 OpenAPI 协议解析与流量回放比对。
 
 #### ⚡ Agent 底层协议与 OpenCode 桌面插件生态
 - 🔌 **[agy-opencode (Google Antigravity for OpenCode)](https://github.com/ShawnLi-code/agy-opencode)**  
@@ -38,14 +36,6 @@ LLM & Agent 质控   ::  LLM-as-a-Judge · 双模型交叉评测 · Prompt 幻�
 测试开发与全栈工程 ::  Python · pytest · asyncio · HTTPX · React 18/19 · TypeScript · FastAPI · Docker · Redis · MySQL
 抓包分析与深层排障 ::  ACP 协议 · Chrome DevTools · Fiddler · Charles · Wireshark · sngrep (SIP 信令) · Linux CLI
 ```
-
----
-
-### 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=ShawnLi-code&theme=tokyonight&hide_border=true" alt="Shawn's Streak" height="155" />
-</p>
 
 ---
 
